@@ -3,6 +3,7 @@
 ## We will learn shell scripting topics.
 
 ### List of topics
+
 1.How to write shell script file
 2.Printing
 3.Variables
